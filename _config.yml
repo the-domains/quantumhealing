@@ -1,0 +1,28 @@
+name: QuantumHealing
+favicon: null
+layout_spectrum: 0.6146515337750316
+typography_spectrum: 0.053330279886722565
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3122500339522958
+  lightness: 0.8494394947774708
+  saturation: 0.6941847128327936
+  rhythmicContrast: 0.8521503461524844
+purpose: []
