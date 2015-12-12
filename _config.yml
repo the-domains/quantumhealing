@@ -1,7 +1,7 @@
 name: QuantumHealing
 favicon: null
-layout_spectrum: 0.6146515337750316
-typography_spectrum: 0.053330279886722565
+layout_spectrum: 0.73996
+typography_spectrum: 0.27344
 title: 'Pioneering Personal WellNES Assurance '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.3122500339522958
-  lightness: 0.8494394947774708
-  saturation: 0.6941847128327936
+    - '#999cd1'
+    - '#000c00'
+    - '#5b6453'
+    - '#8c9e00'
+    - '#b0cb05'
+  brandStrength: 0.75
+  lightness: 0.25
+  saturation: 0.8125
   rhythmicContrast: 0.8521503461524844
 purpose: []
