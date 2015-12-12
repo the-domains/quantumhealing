@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[QuantumHealing]]></title>
+        <description><![CDATA[QuantumHealing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 07:27:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Quantum Electrodynamics (QED)  Quantum electrodynamics, commonly referred to as QED, is a quantum field theory of the electromagnetic force. Taking the example of the force between two electrons, the classical theory of electromagnetism would describe it as arising from the electric field produced by each electron at the position of the other. The force can be calculated from Coulomb's law.  The quantum field theory approach visualizes the force between the electrons as an exchange force arising from the exchange of virtual photons. It is represented by a series of Feynman diagrams, the most basic of which is   With time proceeding upward in the diagram, this diagram describes the electron interaction in which two electrons enter, exchange a photon, and then emerge. Using a mathematical approach known as the Feynman calculus, the strength of the force can be calculated in a series of steps which assign contributions to each of the types of Feynman diagrams associated with the force.  QED applies to all electromagnetic phenomena associated with charged fundamental particles such as electrons and positrons, and the associated phenomena such as pair production, electron-positron annihilation, Compton scattering, etc. It was used to precisely model some quantum phenomena which had no classical analogs, such as the Lamb shift and the anomalous magnetic moment of the electron. QED was the first successful quantum field theory, incorporating such ideas as particle creation and annihilation into a self-consistent framework. The development of the theory was the basis of the 1965 Nobel Prize in physics, awarded to Richard Feynman, Julian Schwinger and Sin-itero Tomonaga.</p>]]></description>
+            <link>undefinedquantum-electrodynamics-qed-quantum-electrodynamics-comm/index.html</link>
+            <guid isPermaLink="false">2528821e-6acf-4db3-be5f-070e8a53f0f9</guid>
+            <pubDate>Sat, 12 Dec 2015 07:26:54 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
