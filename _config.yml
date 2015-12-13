@@ -1,7 +1,7 @@
 name: QuantumHealing
 favicon: null
-layout_spectrum: 0.73996
-typography_spectrum: 0.27344
+layout_spectrum: 0
+typography_spectrum: 0.98996
 title: 'Pioneering the Art and Science of Personal WellNES Assurance '
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#999cd1'
-    - '#000c00'
-    - '#5b6453'
-    - '#8c9e00'
-    - '#b0cb05'
-  brandStrength: 0.75
-  lightness: 0.25
-  saturation: 0.8125
-  rhythmicContrast: 0.8521503461524844
+    - '#4599d3'
+    - '#231f20'
+    - '#ffffff'
+    - '#ed2728'
+    - '#f6987b'
+  brandStrength: 0.875
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
